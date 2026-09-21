@@ -1,0 +1,1234 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://performant-software.github.io/editioncrafter-odt-classroom-f26-503-504/padamati_y/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://performant-software.github.io/editioncrafter-odt-classroom-f26-503-504/padamati_y/iiif/canvas/f0077",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://performant-software.github.io/editioncrafter-odt-classroom-f26-503-504/padamati_y/iiif/canvas/f0077/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://performant-software.github.io/editioncrafter-odt-classroom-f26-503-504/padamati_y/iiif/canvas/f0077/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11682876_00143",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 800,
+								"width": 1000,
+								"service": [
+									{
+										"id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11682876_00143",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://performant-software.github.io/editioncrafter-odt-classroom-f26-503-504/padamati_y/iiif/canvas/f0077"
+						}
+					]
+				}
+			],
+			"height": 800,
+			"width": 1000,
+			"label": {
+				"none": [
+					"Architectura. Von A… (77)"
+				]
+			},
+			"annotations": [
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z000",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#entablature",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='345.8268127441406,1005.2976684570312 786.9381103515625,1005.2976684570312 771.1033325195312,1070.8988037109375 809.5592041015625,1118.4031982421875 339.0404968261719,1120.665283203125 336.77838134765625,1120.665283203125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z001",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#entablature",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='2015.3192138671875,1012.425537109375 2423.973876953125,1005.6708984375 2429.039794921875,1118.810791015625 2003.4986572265625,1120.49951171875 2027.1397705078125,1073.2171630859375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z003",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pediment",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='2435.64892578125,1412.8665771484375 2287.70263671875,1318.180908203125 2139.75634765625,1278.2354736328125 1932.6317138671875,1313.7425537109375 1648.5750732421875,1460.2093505859375 1697.397216796875,1489.798583984375 1956.3031005859375,1489.798583984375 2111.646728515625,1377.359375 2271.428466796875,1497.19580078125 2434.16943359375,1497.19580078125 2437.12841796875,1498.67529296875 2437.12841796875,1498.67529296875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z002",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pediment",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='325.36187744140625,1412.1904296875 507.3357238769531,1311.5870361328125 680.4328002929688,1264.244140625 849.0914916992188,1284.9566650390625 1032.5447998046875,1376.683349609375 1158.299072265625,1458.0537109375 1099.12060546875,1490.6019287109375 1078.4080810546875,1502.4376220703125 868.324462890625,1509.8349609375 684.8712158203125,1367.8065185546875 513.2536010742188,1486.1634521484375 329.8002624511719,1483.20458984375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z004",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#round_stud",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='463.63262939453125,3068.806396484375 452.5366516113281,3083.60107421875 461.1668395996094,3095.929931640625 475.96148681640625,3089.765625 473.4956970214844,3083.60107421875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z005",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#round_stud",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='850.758544921875,3094.697021484375 854.4572143554688,3108.2587890625 866.7860717773438,3100.861572265625 863.08740234375,3090.99853515625 851.991455078125,3089.765625 851.991455078125,3089.765625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z006",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pedestal",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='330.318603515625,2852.57666015625 345.2315979003906,2878.1416015625 362.2749938964844,2893.0546875 368.666259765625,2935.6630859375 355.88372802734375,3214.7490234375 351.62286376953125,3244.574951171875 317.53607177734375,3280.7919921875 598.7522583007812,3302.096435546875 603.0130615234375,3257.357421875 558.274169921875,3236.05322265625 564.6654052734375,2931.40234375 566.7958374023438,2890.92431640625 585.9696655273438,2882.402587890625 603.0130615234375,2858.9677734375 600.8826293945312,2856.83740234375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z007",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pedestal",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='754.544189453125,2841.5546875 722.5878295898438,2859.30810546875 724.3632202148438,2877.061767578125 745.6674194335938,2885.9384765625 759.8703002929688,2930.322509765625 758.0949096679688,3235.683349609375 738.5660400390625,3260.538330078125 706.609619140625,3292.49462890625 992.4417114257812,3310.248291015625 1003.0938720703125,3262.313720703125 948.057861328125,3232.132568359375 955.1593017578125,2930.322509765625 960.4853515625,2910.79345703125 987.1156616210938,2887.7138671875 1010.1952514648438,2839.779296875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z008",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pedestal",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1794.534423828125,2858.115478515625 1757.251953125,2858.115478515625 1755.4766845703125,2893.62255859375 1775.0054931640625,2914.9267578125 1783.88232421875,2971.738037109375 1783.88232421875,3250.46875 1767.9041748046875,3282.425048828125 1735.94775390625,3317.93212890625 2009.352294921875,3330.359619140625 1970.2945556640625,3282.425048828125 1972.0699462890625,3269.99755859375 1959.6424560546875,3259.345458984375 1968.5191650390625,2968.187255859375 1979.1712646484375,2930.905029296875 2005.8016357421875,2913.1513671875 2011.127685546875,2861.666015625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z010",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#strapwork_pattern",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1208.30029296875,1686.7227783203125 1576.4378662109375,1680.587158203125 1570.30224609375,1846.2490234375 1208.30029296875,1843.18115234375 1205.232421875,1843.18115234375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z011",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#strapwork_pattern",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='595.637939453125,2276.0361328125 613.7348022460938,2221.74560546875 677.0738525390625,2196.8623046875 729.1023559570312,2214.959228515625 753.985595703125,2264.7255859375 756.2476806640625,2454.74267578125 758.5098266601562,2755.603271484375 573.016845703125,2760.12744140625 570.7547607421875,2760.12744140625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z012",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#strapwork_pattern",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='2017.9013671875,2305.889892578125 2024.44677734375,2245.671875 2078.11962890625,2210.326416015625 2129.174072265625,2211.635498046875 2173.68310546875,2246.98095703125 2186.774169921875,2286.253662109375 2184.156005859375,2383.126220703125 2168.44677734375,2774.54443359375 1990.4105224609375,2777.162841796875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z013",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#strapwork_pattern",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='676.4509887695312,1860.3824462890625 632.4655151367188,1868.237060546875 593.1928100585938,1920.0770263671875 597.905517578125,1997.0516357421875 654.458251953125,2034.75341796875 718.8655395507812,2028.4697265625 767.563720703125,1978.20068359375 767.563720703125,1921.64794921875 733.0037231445312,1868.237060546875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z014",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#strapwork_pattern",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='2094.9453125,1887.7935791015625 2076.09423828125,1881.510009765625 2049.388916015625,1892.50634765625 2024.2542724609375,1953.7718505859375 2022.683349609375,2060.59375 2072.952392578125,2129.713623046875 2142.072509765625,2125.0009765625 2184.487060546875,2082.58642578125 2198.625244140625,2035.4591064453125 2198.625244140625,1958.4844970703125 2167.20703125,1894.0772705078125 2135.788818359375,1878.3681640625 2080.80712890625,1878.3681640625 2083.94873046875,1878.3681640625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z015",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#fruit_vegetable_trophy",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1241.8187255859375,684.0169677734375 1312.5096435546875,655.7406005859375 1442.8951416015625,649.4569702148438 1540.29150390625,669.8787841796875 1537.149658203125,702.8678588867188 1455.46240234375,781.413330078125 1351.782470703125,779.8424072265625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z016",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#problem",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='420.6675109863281,2017.773193359375 469.7584228515625,2044.1368408203125 482.4856872558594,2025.9549560546875 498.8493347167969,2049.59130859375 549.7584228515625,2007.773193359375 549.7584228515625,2045.0458984375 525.2129516601562,2068.682373046875 528.8493041992188,2100.50048828125 560.66748046875,2180.50048828125 550.66748046875,2188.682373046875 517.9402465820312,2143.227783203125 494.3038635253906,2132.318603515625 482.4856872558594,2099.59130859375 484.3038635253906,2095.0458984375 474.3038635253906,2100.50048828125 462.4856872558594,2120.50048828125 449.7584228515625,2127.773193359375 434.3038635253906,2157.773193359375 418.8493347167969,2166.864013671875 413.394775390625,2147.773193359375 413.394775390625,2111.409423828125 434.3038635253906,2093.227783203125 437.94024658203125,2080.50048828125 440.6675109863281,2070.50048828125 423.394775390625,2055.955078125 419.7584228515625,2032.318603515625 419.7584228515625,2020.50048828125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z017",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#problem",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='805.230712890625,2075.07421875 816.1398315429688,2044.1651611328125 845.230712890625,2034.1651611328125 850.6852416992188,2058.710693359375 876.1398315429688,2040.52880859375 901.5943603515625,2061.43798828125 905.230712890625,2024.1651611328125 936.1398315429688,2034.1651611328125 953.4125366210938,2097.801513671875 950.6852416992188,2178.710693359375 931.5943603515625,2195.07421875 913.4125366210938,2186.892578125 896.1398315429688,2165.07421875 869.7761840820312,2156.892578125 852.5034790039062,2183.256103515625 833.4125366210938,2192.346923828125 817.0488891601562,2182.346923828125 810.6852416992188,2134.165283203125 802.5034790039062,2110.52880859375 796.1398315429688,2097.801513671875 797.0488891601562,2097.801513671875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z018",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#problem",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='387.896484375,2479.9501953125 410.6237487792969,2444.49560546875 411.5328369140625,2427.222900390625 416.07830810546875,2410.859375 435.1692199707031,2419.041259765625 437.896484375,2373.586669921875 480.6237487792969,2357.222900390625 516.9873657226562,2372.677490234375 493.35101318359375,2392.677490234375 513.3510131835938,2417.222900390625 536.9873657226562,2414.49560546875 560.623779296875,2429.041259765625 558.8055419921875,2443.586669921875 576.9873657226562,2490.859375 566.9873657226562,2532.677490234375 556.9873657226562,2573.586669921875 546.0783081054688,2608.132080078125 533.3510131835938,2619.9501953125 514.2601318359375,2620.859375 491.5328369140625,2610.859375 476.07830810546875,2611.768310546875 446.07830810546875,2610.859375 437.896484375,2603.586669921875 446.07830810546875,2568.132080078125 442.4419250488281,2556.31396484375 435.1692199707031,2557.222900390625 430.6237487792969,2577.222900390625 410.6237487792969,2575.40478515625 396.9873962402344,2564.49560546875 406.07830810546875,2544.49560546875 433.3510437011719,2512.677490234375 450.6237487792969,2491.768310546875 443.3510437011719,2479.041259765625 422.4419250488281,2470.859375 397.896484375,2547.222900390625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z019",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#problem",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='792.0567016601562,2470.729248046875 830.238525390625,2474.36572265625 850.238525390625,2501.638427734375 908.4203491210938,2474.36572265625 939.3294067382812,2461.638427734375 965.6930541992188,2489.820068359375 969.3294067382812,2543.45654296875 960.238525390625,2568.9111328125 955.6930541992188,2596.183837890625 963.8748779296875,2627.0927734375 952.0567016601562,2647.0927734375 927.51123046875,2652.54736328125 903.8748779296875,2656.183837890625 874.7839965820312,2658.9111328125 850.238525390625,2658.9111328125 825.6930541992188,2649.820068359375 800.238525390625,2645.274658203125 803.8748779296875,2614.36572265625 786.6021728515625,2608.001953125 794.7839965820312,2569.820068359375 780.238525390625,2535.274658203125 780.238525390625,2503.45654296875 783.8748779296875,2478.001953125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z020",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#problem",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1025.712646484375,1620.2490234375 1004.8035888671875,1595.7034912109375 972.0763549804688,1592.067138671875 946.6217651367188,1614.79443359375 946.6217651367188,1629.33984375 922.9854125976562,1642.067138671875 927.5308837890625,1672.976318359375 939.3490600585938,1689.33984375 942.0763549804688,1706.6126708984375 930.2581787109375,1723.8853759765625 952.9854125976562,1757.521728515625 977.5308837890625,1853.8853759765625 1144.8035888671875,1857.521728515625 1143.89453125,1686.6126708984375 1143.89453125,1663.8853759765625 1131.167236328125,1634.79443359375 1095.712646484375,1594.79443359375 997.5308837890625,1592.067138671875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z021",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#problem",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1688.903076171875,1618.1748046875 1715.2667236328125,1597.2657470703125 1751.63037109375,1607.2657470703125 1777.9940185546875,1628.1748046875 1833.4486083984375,1642.72021484375 1846.17578125,1693.62939453125 1809.8121337890625,1750.902099609375 1849.8121337890625,1816.3565673828125 1821.63037109375,1867.2657470703125 1696.17578125,1872.72021484375 1674.357666015625,1839.992919921875 1679.812255859375,1790.902099609375 1690.7213134765625,1772.72021484375 1678.903076171875,1772.72021484375 1667.0849609375,1757.2657470703125 1670.7213134765625,1749.992919921875 1664.357666015625,1740.902099609375 1672.5394287109375,1729.992919921875 1664.357666015625,1709.992919921875 1670.7213134765625,1701.8111572265625 1674.357666015625,1692.72021484375 1669.812255859375,1675.447509765625 1669.812255859375,1667.2657470703125 1664.357666015625,1650.902099609375 1674.357666015625,1632.72021484375 1674.357666015625,1632.72021484375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z022",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#console",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1085.835693359375,2049.826416015625 1187.94482421875,2056.10986328125 1183.2320556640625,2122.088134765625 1170.664794921875,2247.760986328125 1104.6866455078125,2250.90283203125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z023",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#console",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1602.664794921875,2052.96826171875 1662.359375,2052.96826171875 1692.2066650390625,2049.826416015625 1679.639404296875,2271.324462890625 1608.948486328125,2272.8955078125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z024",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#coat_of_arms",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1270.108642578125,1165.963134765625 1319.85400390625,1158.108642578125 1359.1268310546875,1120.14501953125 1435.0540771484375,1117.52685546875 1500.508544921875,1158.108642578125 1535.85400390625,1164.654052734375 1534.544921875,1179.0540771484375 1516.2176513671875,1179.0540771484375 1517.5267333984375,1198.6904296875 1505.7449951171875,1203.9268798828125 1501.8177490234375,1309.963134765625 1521.4541015625,1321.7449951171875 1521.4541015625,1325.6722412109375 1535.85400390625,1351.8541259765625 1513.5994873046875,1362.3267822265625 1503.1268310546875,1357.0904541015625 1487.417724609375,1401.599609375 1414.108642578125,1436.945068359375 1343.417724609375,1422.5450439453125 1314.61767578125,1378.035888671875 1297.5994873046875,1372.799560546875 1293.6722412109375,1353.1632080078125 1279.272216796875,1347.9268798828125 1284.508544921875,1325.6722412109375 1301.5267333984375,1317.8177490234375 1305.4541015625,1201.30859375 1276.654052734375,1197.38134765625 1277.963134765625,1185.599609375 1263.5631103515625,1171.1995849609375 1263.5631103515625,1172.5086669921875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z025",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#ionic_column",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='399.0952453613281,1758.5423583984375 572.8252563476562,1750.398681640625 567.3961791992188,1782.97314453125 548.3944702148438,1785.6876220703125 542.9653930664062,1888.83984375 556.5380249023438,2087.00048828125 559.2525634765625,2347.595703125 564.681640625,2822.638671875 494.10382080078125,2849.783935546875 428.955078125,2849.783935546875 380.0935363769531,2833.49658203125 396.3807067871094,2760.204345703125 393.6661682128906,2638.050537109375 390.95166015625,2638.050537109375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z026",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='800.3302001953125,1759.9835205078125 957.9380493164062,1757.169189453125 957.9380493164062,1790.9422607421875 932.6082153320312,1810.6431884765625 938.237060546875,1979.5087890625 969.1957397460938,2832.279541015625 912.9072265625,2868.8671875 783.4436645507812,2837.908447265625 797.5158081054688,2770.3623046875 797.5158081054688,2277.837890625 797.5158081054688,2263.765625 794.7013549804688,2263.765625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z027",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#ionic_column",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1842.1513671875,1775.385986328125 1988.50146484375,1778.200439453125 2002.5736083984375,1786.6436767578125 1980.0582275390625,2847.68212890625 1906.8831787109375,2884.26953125 1816.821533203125,2870.197509765625 1794.30615234375,2853.310791015625 1791.49169921875,2853.310791015625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z009",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#pedestal",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='2170.90966796875,2863.44140625 2138.953125,2865.216796875 2140.728515625,2906.050048828125 2165.58349609375,2918.4775390625 2186.8876953125,2961.0859375 2170.90966796875,3261.120849609375 2121.19970703125,3319.70751953125 2412.35791015625,3339.236572265625 2373.300048828125,3287.751220703125 2380.4013671875,3277.09912109375 2362.64794921875,3259.345458984375 2366.198486328125,2968.187255859375 2371.524658203125,2925.578857421875 2383.9521484375,2923.803466796875 2373.300048828125,2861.666015625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z028",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#ionic_column",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='2220.77392578125,1794.31689453125 2323.78173828125,1782.4962158203125 2389.639404296875,1787.562255859375 2362.620849609375,2846.34912109375 2330.536376953125,2883.49951171875 2266.367431640625,2890.254150390625 2173.491455078125,2864.92431640625 2183.62353515625,2822.7080078125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z029",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#console",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='376.5698547363281,1585.927001953125 483.28350830078125,1585.927001953125 510.2550964355469,1671.532470703125 505.5643615722656,1705.5401611328125 486.8015441894531,1693.8133544921875 473.902099609375,1748.92919921875 370.70648193359375,1744.238525390625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z030",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#console",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='875.1265258789062,1589.384033203125 910.6336669921875,1596.78125 932.8255615234375,1624.89111328125 920.9898681640625,1684.069580078125 854.4140625,1685.549072265625' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z031",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#console",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='2319.3173828125,1613.9854736328125 2412.523681640625,1613.9854736328125 2422.8798828125,1642.09521484375 2424.359375,1661.3282470703125 2415.482421875,1679.081787109375 2418.44140625,1729.383544921875 2285.289794921875,1730.8629150390625 2277.892578125,1653.930908203125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z034",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#scrollwork",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1666.745361328125,760.5700073242188 1682.199951171875,747.8427124023438 1689.47265625,743.2972412109375 1717.6544189453125,723.2972412109375 1761.290771484375,801.4790649414062 1753.1090087890625,856.0245361328125 1717.6544189453125,895.115478515625 1648.5634765625,901.4790649414062 1618.5634765625,871.4790649414062 1616.745361328125,836.9336547851562 1633.1090087890625,817.8427124023438 1648.5634765625,802.38818359375 1686.745361328125,800.5700073242188 1713.1090087890625,821.4790649414062 1714.9271240234375,851.4790649414062 1712.199951171875,817.8427124023438' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z035",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#scrollwork",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1728.4676513671875,618.9222412109375 1757.55859375,638.9222412109375 1765.7403564453125,649.8313598632812 1776.6494140625,599.8313598632812 1814.831298828125,589.8313598632812 1845.7403564453125,591.6495361328125 1878.4676513671875,596.1949462890625 1895.7403564453125,625.285888671875 1903.9222412109375,654.3767700195312 1910.2857666015625,705.285888671875 1884.831298828125,760.7404174804688 1860.2857666015625,757.1040649414062 1839.376708984375,749.8313598632812 1818.4676513671875,766.1949462890625 1795.7403564453125,797.1040649414062' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z032",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#scrollwork",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1025.5491943359375,569.6089477539062 979.3159790039062,563.4445190429688 922.8087768554688,598.3762817382812 908.4251098632812,642.5546264648438 924.8635864257812,697.007080078125 990.617431640625,745.2950439453125 1063.5631103515625,733.9935913085938 1062.5357666015625,591.1844482421875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z033",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#scrollwork",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1098.7020263671875,711.834228515625 1142.33837890625,752.7432861328125 1113.2474365234375,809.10693359375 1135.9747314453125,793.6524047851562 1174.1566162109375,803.6524047851562 1191.4293212890625,830.0159912109375 1176.8839111328125,879.10693359375 1136.8839111328125,901.8341674804688 1089.611083984375,900.0159912109375 1056.8839111328125,870.9251098632812 1052.33837890625,822.7432861328125 1044.1566162109375,790.9251098632812 1046.8839111328125,768.1978149414062 1052.33837890625,766.379638671875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z036",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#scrollwork",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='975.4617309570312,1288.149658203125 1008.18896484375,1262.695068359375 1041.8253173828125,1272.695068359375 1070.916259765625,1295.42236328125 1070.916259765625,1334.51318359375 1053.6435546875,1346.3314208984375 1036.370849609375,1351.7860107421875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z037",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#scrollwork",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1848.438232421875,1346.9698486328125 1820.161865234375,1356.3953857421875 1802.8818359375,1328.1190185546875 1802.8818359375,1290.4171142578125 1810.7364501953125,1271.5662841796875 1843.7254638671875,1258.9990234375 1876.714599609375,1263.711669921875 1908.1328125,1285.7044677734375 1925.412841796875,1301.41357421875' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z039",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#meander",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1273.40283203125,2964.306396484375 1504.137939453125,2962.044189453125 1499.61376953125,3050.2666015625 1427.2261962890625,3052.528564453125 1420.43994140625,3009.548583984375 1395.556640625,3011.810546875 1395.556640625,3120.391845703125 1434.0125732421875,3127.17822265625 1434.0125732421875,3095.508544921875 1499.61376953125,3102.294921875 1501.8758544921875,3161.10986328125 1253.0438232421875,3165.634033203125 1255.305908203125,3077.411865234375 1309.5965576171875,3077.411865234375 1314.1207275390625,3115.86767578125 1332.2176513671875,3115.86767578125 1334.479736328125,3009.548583984375 1305.0723876953125,3002.76220703125 1305.0723876953125,3027.6455078125 1266.616455078125,3043.480224609375 1264.3543701171875,3043.480224609375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z040",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#vase",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1339.7027587890625,1937.3157958984375 1436.06640625,1937.3157958984375 1436.06640625,1945.4976806640625 1426.06640625,1948.2249755859375 1425.1572265625,1978.2249755859375 1436.06640625,1986.40673828125 1440.61181640625,2008.2249755859375 1477.884521484375,2020.9522705078125 1447.884521484375,2048.224853515625 1431.5208740234375,2065.49755859375 1421.5208740234375,2078.224853515625 1426.9754638671875,2147.31591796875 1345.1572265625,2143.679443359375 1342.4300537109375,2121.861328125 1353.339111328125,2110.043212890625 1348.7935791015625,2076.40673828125 1323.339111328125,2042.7703857421875 1316.9754638671875,2005.4976806640625 1340.61181640625,1981.861328125 1357.884521484375,1963.679443359375 1338.7935791015625,1947.3157958984375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z038",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#vase",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1315.147705078125,1010.6304931640625 1370.1295166015625,1014.5577392578125 1527.220458984375,1008.0122680664062 1511.5113525390625,920.30322265625 1486.6385498046875,890.194091796875 1464.384033203125,861.3941040039062 1506.27490234375,840.4486694335938 1468.311279296875,797.2486572265625 1446.0567626953125,785.466796875 1358.34765625,782.8486328125 1304.6749267578125,823.4304809570312 1340.0203857421875,844.3759155273438 1340.0203857421875,871.8668212890625 1278.4931640625,901.9759521484375 1253.620361328125,925.53955078125' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				},
+				{
+					"@context": "https://www.w3.org/ns/anno.jsonld",
+					"id": "#f0077_z041",
+					"type": "Annotation",
+					"motivation": "tagging",
+					"body": [
+						{
+							"type": "TextualBody",
+							"purpose": "tagging",
+							"format": "text/html"
+						},
+						{
+							"type": "TextualBody",
+							"purpose": "classifying",
+							"format": "text/plain",
+							"value": "#twisting",
+							"motivation": "classifying"
+						}
+					],
+					"target": {
+						"selector": [
+							{
+								"type": "SvgSelector",
+								"value": "<svg><polygon points='1405.093994140625,1043.9913330078125 1388.7303466796875,1038.536865234375 1393.093994140625,981.8095703125 1377.8212890625,963.2640991210938 1402.9122314453125,950.1732177734375 1429.093994140625,952.3550415039062 1431.27587890625,973.082275390625 1414.9122314453125,1046.1732177734375' style='stroke:#fff;stroke-dasharray:2;stroke-opacity:1;stroke-width:1.5;fill:transparent;'></polygon></svg>"
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"label": {
+		"en": [
+			"padamati_y"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}
